@@ -1,0 +1,27 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+#bg {
+    background-image: url('/public/photos/register_image.jpg');
+    background-size: cover;
+}
+
+#innerdiv {
+    background-color: rgba(0, 0, 0, 0.406);
+    background-size: cover;
+}
+
+h2,
+a,
+p,
+a:hover,
+a:active {
+    color: aliceblue;
+}
+
+a,
+a:hover,
+a:active {
+    text-decoration: underline;
+}
